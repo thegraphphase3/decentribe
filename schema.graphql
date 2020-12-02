@@ -1,13 +1,13 @@
 type Transfert @entity {
   id: ID!
-  String: Bytes!
-  String: Bytes!
+  Sender: Bytes!
+  Taker: Bytes!
   amount: BigDecimal!
 }
 
 type Approval @entity {
   id: ID!
-  String: Bytes!
-  String: Bytes!
+  Sender: Bytes!
+  Taker: Bytes!
   amount: BigDecimal!
 }
