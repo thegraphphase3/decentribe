@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01127f9e-dc7b-488c-9b59-41345a1f4d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abis/abis.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abis/Gravity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/Gravity.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Gravity.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/schema.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subgraph.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/subgraph.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,20 +98,36 @@
       <option name="presentableId" value="Default" />
       <updated>1606907172327</updated>
     </task>
+    <task id="LOCAL-00001" summary="decentr p0">
+      <created>1606917924598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606917924598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="decentr p0" />
+    <option name="LAST_COMMIT_MESSAGE" value="decentr p0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606907377007">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1606907377007" />
+    <state x="264" y="2" key="CommitChangelistDialog2" timestamp="1606917924010">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="264" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1606917924010" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1606908131346">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606908131346" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1606917868908">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1606917931686">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606917868908" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606917931686" />
   </component>
 </project>
