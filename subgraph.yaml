@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description:  Decentribe governance token (DECENT)
-repository: https://github.com/thegraphphase3/decentSubgraph
+repository: https://github.com/thegraphphase3/Decentsubgraph
 schema:
   file: ./schema.graphql
 dataSources:

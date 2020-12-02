@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01127f9e-dc7b-488c-9b59-41345a1f4d83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subgraph.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/subgraph.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,29 +106,45 @@
       <option name="project" value="LOCAL" />
       <updated>1606917924598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="decentr p0 - t1">
+      <created>1606937695895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606937695896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="decentr p0 - t2">
+      <created>1606937873094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606937873094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="decentr p0" />
-    <option name="LAST_COMMIT_MESSAGE" value="decentr p0" />
+    <MESSAGE value="decentr p0 - t1" />
+    <MESSAGE value="decentr p0 - t2" />
+    <option name="LAST_COMMIT_MESSAGE" value="decentr p0 - t2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606907377007">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1606907377007" />
-    <state x="264" y="2" key="CommitChangelistDialog2" timestamp="1606937695519">
+    <state x="264" y="2" key="CommitChangelistDialog2" timestamp="1606937872748">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="264" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1606937695519" />
+    <state x="264" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1606937872748" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1606908131346">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606908131346" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1606937708406">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1606937877339">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606937708406" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1606937877339" />
   </component>
 </project>
