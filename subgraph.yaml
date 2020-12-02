@@ -5,7 +5,7 @@ schema:
   file: ./schema.graphql
 dataSources:
   - kind: ethereum/contract
-    name: schemas
+    name: Decent
     network: mainnet
     source:
       address: '0x900b1998a226cfe238ba1a14f03eb934c513c20b'
