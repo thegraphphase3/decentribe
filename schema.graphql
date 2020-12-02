@@ -1,6 +1,13 @@
-type Gravatar @entity {
+type Transfert @entity {
   id: ID!
-  owner: Bytes!
-  displayName: String!
-  imageUrl: String!
+  String: Bytes!
+  String: Bytes!
+  amount: BigDecimal!
+}
+
+type Approval @entity {
+  id: ID!
+  String: Bytes!
+  String: Bytes!
+  amount: BigDecimal!
 }

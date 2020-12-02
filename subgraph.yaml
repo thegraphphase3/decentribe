@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Gravatar for Ethereum
-repository: https://github.com/graphprotocol/example-subgraph
+description:  Decentribe governance token (DECENT)
+repository: https://github.com/thegraphphase3/example-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
@@ -8,8 +8,8 @@ dataSources:
     name: Gravity
     network: mainnet
     source:
-      address: '0x2E645469f354BB4F5c8a05B3b30A929361cf77eC'
-      abi: Gravity
+      address: '0x900b1998a226cfe238ba1a14f03eb934c513c20b'
+      abi: abis
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
@@ -17,11 +17,11 @@ dataSources:
       entities:
         - Gravatar
       abis:
-        - name: Gravity
-          file: ./abis/Gravity.json
+        - name: abis
+          file: ./abis/abis.json
       eventHandlers:
-        - event: NewGravatar(uint256,address,string,string)
-          handler: handleNewGravatar
-        - event: UpdatedGravatar(uint256,address,string,string)
-          handler: handleUpdatedGravatar
+        - event: Transfer(indexed address,indexed address,uint256)
+          handler: handleTransfer
+        - event: Approval(indexed address,indexed address,uint256)
+          handler: handleApproval
       file: ./src/mapping.ts
