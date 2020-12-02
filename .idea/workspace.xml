@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01127f9e-dc7b-488c-9b59-41345a1f4d83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l6AT38STXocT0XloZ6h0yD8q9L" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../coursera/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../formation akka/LAJ-P-lightbend-akka-for-java-professional-2.20200115/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kafka/git/Websocket-Akka-Kafka-Spark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kafka/git/Websocket-Akka-Kafka-Spark copie-secure-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kafka/git/Websocket-Akka-Kafka-producer-to-kafka-binance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kafka/git/kafka-streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../p5/Kappa-archi/consumers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../p5/Kappa-archi/producer-p5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../p5/Kappa-archi/twitter-Stream-kappa-Archi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../p5/Kappa-archi/twitter-Stream-kappa-ArchiAvro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../p5/twitter-Stream-kappa-Archi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projet cour/week3_2/HalloScala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../projet cour/week3_2/Sumcount copie" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/LAS-P-lightbend-akka-for-scala-professional-2.20200115/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ta race/consumers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ta race/twitter-Stream-kappa-Archi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../xxx/week2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../xxx/week3/timeusage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../xxx/week3_2/HalloScala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/down kafka/kafka-streams-scala-examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/down kafka/untitled" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/projetCours/Spark-Streaming-initiation/sparkStreamingWordcountScala/spark-scala-wordCount" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/stackoverflow" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/timeusage" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/Websocket-Akka-Kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/Websocket-Akka-Kafka-2" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/Websocket-Akka-Kafkar-ref" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/kafka-flink-elasticSeach" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/kafka-flink-elasticSeach-stream-block" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/producerFromApiKafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/ref/BigDataWithScala/ScalaStorm" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/stormgit2/BigDataWithScala-master/ScalaStorm" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet3/websocket-akkahttp-kafka/stormgit3mvn/BigDataWithScala-master/ScalaStorm" value="PREVIEW" />
+        <entry key="$USER_HOME$/projet4/Batch-Hadoop-Spark-Aws-Wikipedia" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01127f9e-dc7b-488c-9b59-41345a1f4d83" name="Default Changelist" comment="" />
+      <created>1606907172327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606907172327</updated>
+    </task>
+    <servers />
+  </component>
+</project>
