@@ -15,14 +15,11 @@ dataSources:
       apiVersion: 0.0.4
       language: wasm/assemblyscript
       entities:
-        - Transfert
-        - Approval
+        - Transfertx
       abis:
         - name: Decent
           file: ./abis/Decent.json
       eventHandlers:
         - event: Transfer(indexed address,indexed address,uint256)
           handler: handleTransfer
-        - event: Approval(indexed address,indexed address,uint256)
-          handler: handleApproval
       file: ./src/mapping.ts

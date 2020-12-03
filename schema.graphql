@@ -1,13 +1,7 @@
-type Transfert @entity {
+type Transfertx @entity {
   id: ID!
-  Sender: Bytes!
-  Taker: Bytes!
-  amount: BigDecimal!
+  from: Bytes!
+  to: Bytes!
+  value: BigInt!
 }
 
-type Approval @entity {
-  id: ID!
-  Sender: Bytes!
-  Taker: Bytes!
-  amount: BigDecimal!
-}
