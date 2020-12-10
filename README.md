@@ -1,4 +1,5 @@
-# DECENTRIBE   This SubGraph has been developed by : XXXXX and  DzairHer#8621
+# DECENTRIBE   
+### This SubGraph has been developed by : XXXXX and  DzairHer#8621
 
 Decentribe brings the words of decentralized finance and blockchain gaming together using price prediction markets
  The key objective of this subgraph is to index and track details from the Decentribe smart contract and to access this information:
