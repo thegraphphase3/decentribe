@@ -2,6 +2,8 @@ type Transfertx @entity {
   id: ID!
   from: Bytes!
   to: Bytes!
+  erc20Symbol: String
+  totalSupply: BigInt!
   value: BigInt!
   transaction: Bytes! # tx hash
   blockNumber: BigInt!
@@ -12,7 +14,29 @@ type Approvaltx @entity {
   id: ID!
   owner: Bytes!
   spender: Bytes!
+  erc20Symbol: String
+  totalSupply: BigInt!
   value: BigInt!
+  transaction: Bytes! # tx hash
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+}
+
+type Minteraddedtx @entity {
+  id: ID!
+  account: Bytes!
+  transaction: Bytes! # tx hash
+  erc20Symbol: String
+  totalSupply: BigInt!
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+}
+
+type Minterremovedtx @entity {
+  id: ID!
+  account: Bytes!
+  erc20Symbol: String
+  totalSupply: BigInt!
   transaction: Bytes! # tx hash
   blockNumber: BigInt!
   blockTimestamp: BigInt!
